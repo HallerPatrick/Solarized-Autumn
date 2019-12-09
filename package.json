@@ -23,5 +23,9 @@
         "path": "./themes/Solarized Autumn-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HallerPatrick/Solarized-Autumn.git"
   }
 }
