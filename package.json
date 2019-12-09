@@ -1,0 +1,27 @@
+{
+  "name": "solarized-autumn",
+  "displayName": "Solarized Autumn",
+  "description": "A solarized theme with stronger colours.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Patrick Haller",
+    "email": "patrickhaller40@googlemail.com",
+    "url": "https://github.com/HallerPatrick"
+  },
+  "publisher": "HallerPatrick",
+  "engines": {
+    "vscode": "^1.40.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Autumn",
+        "uiTheme": "vs",
+        "path": "./themes/Solarized Autumn-color-theme.json"
+      }
+    ]
+  }
+}
