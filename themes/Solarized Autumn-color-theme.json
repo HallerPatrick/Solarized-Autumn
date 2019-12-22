@@ -675,7 +675,11 @@
     },
     {
       "name": "Classes",
-      "scope": ["variable.language.this", "variable.language.super"],
+      "scope": [
+        "variable.language.this",
+        "variable.language.super",
+        "variable.language.self"
+      ],
       "settings": {
         "foreground": "#d33682"
       }

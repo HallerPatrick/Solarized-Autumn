@@ -34,6 +34,7 @@ const Model = () => {
             description: description
         }
 
+
         if (storageManager.saveBook(book)) {
             myBooks.push(book)
             return true
